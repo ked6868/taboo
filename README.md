@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
