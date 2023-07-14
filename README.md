@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Avoid creating -hub dir without processing images (#8334)
