@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
