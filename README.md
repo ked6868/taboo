@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
