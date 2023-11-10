@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Improve Coral Edge TPU guide (#8160)
