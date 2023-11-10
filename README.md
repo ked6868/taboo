@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Add bgr hyperparameter (#9139)
