@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+OBB: Fix when training on zip data (#8680)
