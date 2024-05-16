@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
