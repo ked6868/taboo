@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
